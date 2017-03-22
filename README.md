@@ -1,6 +1,8 @@
-# HackGT-D3-Tutorial
-### D3 Tutorial taught by HackGT at a workshop
+# D3 Tutorial taught by HackGT
 
-![image](github/pic1.png)
+Intro project to D3.
 
-Intro to D3. Built on HTML, CSS, and Javascript.
+### About
+- This is a simple project that utitlizes the D3 framework to display statistics.
+- Built on HTML, CSS, and Javascript.
+- Taught by HackGT at a workshop.
